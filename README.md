@@ -15,21 +15,19 @@ and a Streamlit app (`app.py`) if you want something click-through-able.
 
 ## What it does
 
-- Loads customer + purchase history CSVs, checks they've got the right columns, drops obviously
-  bad rows (negative prices, unparseable dates)
-- Merges the two into one profile per customer - age group, favorite category, total spend,
-  loyalty tier, last thing they bought
-- Recommends a product using TF-IDF + cosine similarity against the customer's purchase history,
-  instead of just picking something random from their favorite category
-- Builds a prompt from a template + style guide, fills in the customer's details, sends it to a
-  local LLM (default `microsoft/Phi-3-mini-4k-instruct`)
-- Parses the model's reply into six labeled parts and falls back to generic text for any part it
-  can't find, so one weird generation doesn't kill the whole batch
-- Scores each email: word count, a hand-rolled Flesch readability score, TextBlob sentiment, and a
-  personalization score
-- Exports everything to CSV
-- Streamlit app on top of all that, with single-customer or batch mode, CSV upload, and a small
-  analytics tab (KMeans customer segments, sentiment breakdown)
+It loads the customer and purchase history CSVs, checks they've got the right columns, and drops
+the obviously bad rows (negative prices, dates it can't parse). The two get merged into one
+profile per customer - age group, favorite category, total spend, loyalty tier, last thing they
+bought - and a product gets recommended using TF-IDF + cosine similarity against that customer's
+own purchase history, instead of just grabbing something random from their favorite category.
+
+From there it builds a prompt from a template and a style guide, fills in the customer's details,
+and sends it to a local LLM (default `microsoft/Phi-3-mini-4k-instruct`). The reply gets parsed
+into six labeled parts, falling back to generic text for anything it can't find so one weird
+generation doesn't take down the whole batch. Each email gets scored - word count, a hand-rolled
+Flesch readability score, TextBlob sentiment, a personalization score - and everything gets
+exported to CSV. The Streamlit app sits on top of all of that, with single-customer or batch mode,
+CSV upload, and a small analytics tab for KMeans customer segments and a sentiment breakdown.
 
 ## Stack
 
@@ -150,13 +148,13 @@ Since generation is sampled and not greedy, running this yourself will give diff
 
 ## Things I'd still want to fix
 
-- The regex section parser breaks if a model ignores the labeled format entirely - needs a
-  retry/repair pass instead of just falling back to generic text
-- Personalization score should give credit for referencing purchase history in natural language,
-  not just literal keyword matches (see above)
-- Swap TextBlob/hand-rolled Flesch for something a bit more rigorous
-- Promo offers only vary by loyalty tier right now, could tie them to season/active campaigns
-- Fine-tuning a small model on real marketing copy would probably beat prompting alone
+Ran out of time before getting to these, but two things actually bug me. The personalization
+score is pure keyword matching, so an email can reference the customer's exact last purchase in
+a normal sentence and still score low just because it didn't repeat the field verbatim - that's
+what happened in the example above, 25% for an email that's clearly personalized. And the regex
+parser that splits the model's output into six sections just gives up and falls back to generic
+text the moment a model doesn't follow the labeled format, instead of retrying or repairing what
+it got.
 
 ## Troubleshooting
 
