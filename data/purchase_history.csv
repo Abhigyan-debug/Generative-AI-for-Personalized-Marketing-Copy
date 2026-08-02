@@ -1,0 +1,165 @@
+order_id,customer_id,product_name,category,price,quantity,purchase_date,rating
+ORD00001,CUST0001,Portable Bluetooth Speaker,Electronics,1676.14,1,2025-10-20,5
+ORD00002,CUST0002,Ikigai,Books,335.43,1,2025-04-04,5
+ORD00003,CUST0002,Atomic Habits,Books,318.39,2,2025-08-04,5
+ORD00004,CUST0002,Sapiens,Books,614.96,1,2024-09-11,5
+ORD00005,CUST0002,Atomic Habits,Books,379.52,1,2026-04-12,4
+ORD00006,CUST0003,The Psychology of Money,Books,333.38,1,2025-04-15,4
+ORD00007,CUST0003,Sapiens,Books,601.01,3,2026-04-23,3
+ORD00008,CUST0004,Smart Fitness Band,Electronics,2608.62,2,2025-12-26,5
+ORD00009,CUST0004,Smart Fitness Band,Electronics,2567.46,2,2025-11-03,5
+ORD00010,CUST0004,65W Fast Charger,Electronics,1386.61,3,2024-09-23,5
+ORD00011,CUST0004,Smart Fitness Band,Electronics,2283.85,1,2026-06-03,5
+ORD00012,CUST0004,Portable Bluetooth Speaker,Electronics,1641.91,3,2025-03-31,5
+ORD00013,CUST0004,Wireless Earbuds Pro,Electronics,4900.95,1,2026-01-23,3
+ORD00014,CUST0005,Cricket Bat (Kashmir Willow),Sports & Fitness,1678.83,3,2025-11-22,5
+ORD00015,CUST0005,Cycling Helmet,Sports & Fitness,1080.98,3,2024-12-31,5
+ORD00016,CUST0005,Resistance Bands Kit,Sports & Fitness,580.7,1,2025-11-30,4
+ORD00017,CUST0005,Adjustable Dumbbell Set,Sports & Fitness,4178.23,1,2025-04-20,4
+ORD00018,CUST0005,Yoga Mat 6mm,Sports & Fitness,973.97,3,2026-04-21,3
+ORD00019,CUST0006,The Psychology of Money,Books,435.65,1,2025-11-24,4
+ORD00020,CUST0006,The Psychology of Money,Books,336.64,3,2024-08-11,4
+ORD00021,CUST0006,Ikigai,Books,293.91,1,2026-03-17,4
+ORD00022,CUST0006,Atomic Habits,Books,447.48,1,2025-10-27,4
+ORD00023,CUST0006,A Court of Thorns and Roses,Books,399.9,1,2025-03-02,5
+ORD00024,CUST0007,Portable Bluetooth Speaker,Electronics,1609.22,1,2026-03-21,5
+ORD00025,CUST0007,Smart Fitness Band,Electronics,3110.85,3,2024-08-09,5
+ORD00026,CUST0007,Wireless Earbuds Pro,Electronics,2687.11,1,2025-01-20,3
+ORD00027,CUST0008,Vitamin C Face Serum,Beauty,783.96,1,2025-07-31,4
+ORD00028,CUST0008,Vitamin C Face Serum,Beauty,811.21,3,2025-06-11,5
+ORD00029,CUST0008,Herbal Shampoo 400ml,Beauty,651.61,1,2025-06-05,3
+ORD00030,CUST0009,Slim Fit Denim Jeans,Fashion,2243.85,1,2025-07-06,3
+ORD00031,CUST0009,Slim Fit Denim Jeans,Fashion,1538.49,2,2025-08-08,4
+ORD00032,CUST0010,65W Fast Charger,Electronics,1128.78,1,2025-10-20,4
+ORD00033,CUST0010,Noise Cancelling Headphones,Electronics,7323.6,1,2026-04-05,4
+ORD00034,CUST0011,Resistance Bands Kit,Sports & Fitness,790.42,1,2025-05-12,5
+ORD00035,CUST0011,65W Fast Charger,Electronics,1528.65,1,2025-11-14,3
+ORD00036,CUST0012,Portable Bluetooth Speaker,Electronics,2577.24,1,2024-11-01,4
+ORD00037,CUST0012,Portable Bluetooth Speaker,Electronics,2766.81,2,2025-09-01,5
+ORD00038,CUST0012,Ikigai,Books,268.09,2,2024-09-20,5
+ORD00039,CUST0012,Noise Cancelling Headphones,Electronics,8275.42,2,2025-01-17,3
+ORD00040,CUST0012,A Court of Thorns and Roses,Books,401.55,3,2024-11-18,5
+ORD00041,CUST0012,Sapiens,Books,509.45,1,2025-02-24,5
+ORD00042,CUST0013,Resistance Bands Kit,Sports & Fitness,705.18,3,2025-08-23,3
+ORD00043,CUST0013,Resistance Bands Kit,Sports & Fitness,588.86,1,2026-03-04,3
+ORD00044,CUST0013,Adjustable Dumbbell Set,Sports & Fitness,4958.84,3,2026-05-19,5
+ORD00045,CUST0013,Cycling Helmet,Sports & Fitness,1193.44,2,2025-03-13,5
+ORD00046,CUST0013,Adjustable Dumbbell Set,Sports & Fitness,4139.15,1,2026-04-14,5
+ORD00047,CUST0013,Adjustable Dumbbell Set,Sports & Fitness,4509.27,3,2025-04-13,3
+ORD00048,CUST0014,Smart Fitness Band,Electronics,3201.12,3,2025-01-06,5
+ORD00049,CUST0014,65W Fast Charger,Electronics,1327.86,3,2025-05-22,5
+ORD00050,CUST0014,Smart Fitness Band,Electronics,3114.48,2,2025-04-28,4
+ORD00051,CUST0014,Portable Bluetooth Speaker,Electronics,3413.53,3,2025-03-23,5
+ORD00052,CUST0014,Portable Bluetooth Speaker,Electronics,2598.68,1,2025-12-04,4
+ORD00053,CUST0015,The Psychology of Money,Books,295.25,1,2024-08-08,4
+ORD00054,CUST0015,Sapiens,Books,500.9,3,2025-04-11,5
+ORD00055,CUST0015,The Psychology of Money,Books,415.58,2,2024-12-11,5
+ORD00056,CUST0016,Portable Bluetooth Speaker,Electronics,3382.69,2,2025-01-27,5
+ORD00057,CUST0017,Matte Lipstick Combo,Beauty,716.92,1,2025-06-29,4
+ORD00058,CUST0017,Herbal Shampoo 400ml,Beauty,643.18,1,2024-11-02,5
+ORD00059,CUST0017,Sunscreen SPF 50,Beauty,635.76,1,2026-05-08,5
+ORD00060,CUST0017,Herbal Shampoo 400ml,Beauty,652.4,1,2026-06-11,4
+ORD00061,CUST0017,Matte Lipstick Combo,Beauty,604.83,1,2025-08-21,5
+ORD00062,CUST0017,Sunscreen SPF 50,Beauty,499.91,1,2025-04-07,3
+ORD00063,CUST0018,Stainless Steel Cookware Set,Home & Kitchen,5342.7,1,2026-07-01,4
+ORD00064,CUST0018,Stainless Steel Cookware Set,Home & Kitchen,4863.01,1,2026-03-25,5
+ORD00065,CUST0018,Non-stick Frying Pan,Home & Kitchen,1362.43,2,2024-08-15,4
+ORD00066,CUST0018,Air Fryer 4L,Home & Kitchen,4710.79,1,2026-02-15,4
+ORD00067,CUST0018,Non-stick Frying Pan,Home & Kitchen,716.97,1,2024-12-20,5
+ORD00068,CUST0018,Memory Foam Pillow,Home & Kitchen,1746.32,1,2026-05-16,5
+ORD00069,CUST0019,Noise Cancelling Headphones,Electronics,9221.11,3,2026-06-20,4
+ORD00070,CUST0019,Portable Bluetooth Speaker,Electronics,1671.39,1,2026-07-20,5
+ORD00071,CUST0019,Wireless Earbuds Pro,Electronics,3582.81,1,2024-10-20,5
+ORD00072,CUST0019,65W Fast Charger,Electronics,1022.3,3,2024-10-04,4
+ORD00073,CUST0019,65W Fast Charger,Electronics,1203.9,3,2025-10-31,4
+ORD00074,CUST0019,Wireless Earbuds Pro,Electronics,3196.32,2,2025-11-25,5
+ORD00075,CUST0020,Portable Bluetooth Speaker,Electronics,1953.6,1,2025-08-03,4
+ORD00076,CUST0020,Portable Bluetooth Speaker,Electronics,3699.8,1,2025-01-09,3
+ORD00077,CUST0020,Stainless Steel Cookware Set,Home & Kitchen,3723.07,2,2025-03-19,5
+ORD00078,CUST0020,Memory Foam Pillow,Home & Kitchen,1480.31,2,2025-04-30,3
+ORD00079,CUST0020,Ceramic Coffee Mug Set,Home & Kitchen,609.8,1,2025-09-22,5
+ORD00080,CUST0021,Sapiens,Books,648.16,3,2025-08-28,4
+ORD00081,CUST0021,A Court of Thorns and Roses,Books,425.66,1,2026-03-31,5
+ORD00082,CUST0021,Matte Lipstick Combo,Beauty,558.78,3,2024-08-25,4
+ORD00083,CUST0021,Herbal Shampoo 400ml,Beauty,607.51,1,2024-12-06,5
+ORD00084,CUST0021,Atomic Habits,Books,465.53,1,2025-12-12,4
+ORD00085,CUST0022,Portable Bluetooth Speaker,Electronics,1612.79,1,2025-01-12,4
+ORD00086,CUST0022,65W Fast Charger,Electronics,970.81,1,2024-12-22,4
+ORD00087,CUST0023,Vitamin C Face Serum,Beauty,750.49,2,2026-04-07,3
+ORD00088,CUST0023,Memory Foam Pillow,Home & Kitchen,965.67,1,2026-02-27,4
+ORD00089,CUST0023,Stainless Steel Cookware Set,Home & Kitchen,5980.75,1,2025-01-07,5
+ORD00090,CUST0023,Aromatherapy Candle Set,Beauty,927.23,2,2025-10-01,5
+ORD00091,CUST0024,Ikigai,Books,393.02,1,2026-01-01,5
+ORD00092,CUST0024,A Court of Thorns and Roses,Books,514.11,1,2025-11-29,4
+ORD00093,CUST0024,The Psychology of Money,Books,249.54,2,2024-08-26,5
+ORD00094,CUST0024,Resistance Bands Kit,Sports & Fitness,512.06,1,2024-08-08,4
+ORD00095,CUST0025,Winter Bomber Jacket,Fashion,3821.37,1,2025-05-23,3
+ORD00096,CUST0025,Smart Fitness Band,Electronics,3361.62,1,2026-05-20,3
+ORD00097,CUST0025,Portable Bluetooth Speaker,Electronics,2986.61,3,2025-10-10,5
+ORD00098,CUST0025,65W Fast Charger,Electronics,1381.07,2,2025-10-27,5
+ORD00099,CUST0025,Leather Wallet,Fashion,747.27,1,2025-05-16,5
+ORD00100,CUST0025,Winter Bomber Jacket,Fashion,2999.74,1,2025-12-10,5
+ORD00101,CUST0026,Cycling Helmet,Sports & Fitness,1039.23,1,2025-04-07,5
+ORD00102,CUST0026,Resistance Bands Kit,Sports & Fitness,571.6,3,2025-05-12,5
+ORD00103,CUST0026,Yoga Mat 6mm,Sports & Fitness,981.01,2,2025-08-25,4
+ORD00104,CUST0026,Adjustable Dumbbell Set,Sports & Fitness,3323.51,2,2025-10-10,5
+ORD00105,CUST0026,Cycling Helmet,Sports & Fitness,1035.7,1,2025-09-13,4
+ORD00106,CUST0027,Aromatherapy Candle Set,Beauty,976.19,1,2026-01-21,5
+ORD00107,CUST0027,Aromatherapy Candle Set,Beauty,1152.87,2,2026-06-10,4
+ORD00108,CUST0027,Aromatherapy Candle Set,Beauty,777.61,1,2025-05-10,5
+ORD00109,CUST0028,Smart Fitness Band,Electronics,2465.13,1,2025-01-13,5
+ORD00110,CUST0028,Smart Fitness Band,Electronics,3487.39,1,2025-04-16,3
+ORD00111,CUST0028,65W Fast Charger,Electronics,1551.86,1,2025-02-26,5
+ORD00112,CUST0028,65W Fast Charger,Electronics,1483.31,2,2025-11-25,5
+ORD00113,CUST0029,Aromatherapy Candle Set,Beauty,1003.94,1,2026-05-22,4
+ORD00114,CUST0029,Matte Lipstick Combo,Beauty,966.12,3,2025-11-01,3
+ORD00115,CUST0029,Matte Lipstick Combo,Beauty,917.74,3,2024-09-25,5
+ORD00116,CUST0029,Sunscreen SPF 50,Beauty,614.43,1,2025-08-26,5
+ORD00117,CUST0029,Sunscreen SPF 50,Beauty,772.14,1,2024-08-17,4
+ORD00118,CUST0030,Running Shoes,Fashion,3488.41,2,2025-07-02,5
+ORD00119,CUST0030,Leather Wallet,Fashion,1277.89,1,2025-03-05,5
+ORD00120,CUST0030,Vitamin C Face Serum,Beauty,1123.51,2,2026-04-21,5
+ORD00121,CUST0030,Vitamin C Face Serum,Beauty,1032.47,2,2024-09-30,4
+ORD00122,CUST0030,Leather Wallet,Fashion,1167.92,1,2025-08-20,5
+ORD00123,CUST0031,Noise Cancelling Headphones,Electronics,7519.04,1,2024-10-29,5
+ORD00124,CUST0031,Noise Cancelling Headphones,Electronics,6142.6,1,2025-12-04,5
+ORD00125,CUST0031,Smart Fitness Band,Electronics,3119.15,2,2026-04-23,5
+ORD00126,CUST0031,Cricket Bat (Kashmir Willow),Sports & Fitness,1748.55,1,2026-07-03,3
+ORD00127,CUST0031,Wireless Earbuds Pro,Electronics,3232.42,1,2025-05-17,4
+ORD00128,CUST0031,Cycling Helmet,Sports & Fitness,1411.05,1,2026-02-08,4
+ORD00129,CUST0032,Winter Bomber Jacket,Fashion,2785.24,2,2024-10-17,4
+ORD00130,CUST0033,Portable Bluetooth Speaker,Electronics,3193.03,1,2026-05-18,5
+ORD00131,CUST0033,Noise Cancelling Headphones,Electronics,7195.62,2,2024-08-25,4
+ORD00132,CUST0033,Portable Bluetooth Speaker,Electronics,1997.04,2,2025-03-25,3
+ORD00133,CUST0033,Cricket Bat (Kashmir Willow),Sports & Fitness,2356.88,3,2025-10-03,5
+ORD00134,CUST0034,Resistance Bands Kit,Sports & Fitness,502.24,1,2024-11-19,5
+ORD00135,CUST0034,Resistance Bands Kit,Sports & Fitness,809.3,1,2024-11-18,4
+ORD00136,CUST0034,Adjustable Dumbbell Set,Sports & Fitness,4051.23,1,2024-10-27,3
+ORD00137,CUST0035,Stainless Steel Cookware Set,Home & Kitchen,4737.72,1,2026-05-01,4
+ORD00138,CUST0035,Memory Foam Pillow,Home & Kitchen,1057.08,1,2025-01-26,4
+ORD00139,CUST0035,Air Fryer 4L,Home & Kitchen,4012.94,2,2025-10-03,5
+ORD00140,CUST0035,Stainless Steel Cookware Set,Home & Kitchen,4403.99,1,2026-03-10,4
+ORD00141,CUST0035,Non-stick Frying Pan,Home & Kitchen,955.04,2,2026-07-18,4
+ORD00142,CUST0035,Memory Foam Pillow,Home & Kitchen,1230.73,1,2024-12-11,5
+ORD00143,CUST0036,Cotton Casual Shirt,Fashion,1232.68,3,2025-08-31,5
+ORD00144,CUST0036,Wireless Earbuds Pro,Electronics,4087.51,2,2024-08-14,4
+ORD00145,CUST0036,Cotton Casual Shirt,Fashion,896.84,1,2025-09-24,5
+ORD00146,CUST0036,Wireless Earbuds Pro,Electronics,3086.0,3,2026-03-16,5
+ORD00147,CUST0036,Running Shoes,Fashion,3339.97,3,2025-05-29,5
+ORD00148,CUST0036,65W Fast Charger,Electronics,1357.45,2,2024-11-09,5
+ORD00149,CUST0037,Adjustable Dumbbell Set,Sports & Fitness,3607.46,1,2025-07-26,3
+ORD00150,CUST0037,Cycling Helmet,Sports & Fitness,1900.7,1,2026-05-31,5
+ORD00151,CUST0037,Adjustable Dumbbell Set,Sports & Fitness,4919.52,2,2026-04-30,5
+ORD00152,CUST0038,Smart Fitness Band,Electronics,3482.23,3,2026-01-03,3
+ORD00153,CUST0038,Noise Cancelling Headphones,Electronics,6862.81,1,2025-08-30,4
+ORD00154,CUST0039,Air Fryer 4L,Home & Kitchen,4579.43,1,2026-04-11,5
+ORD00155,CUST0039,Air Fryer 4L,Home & Kitchen,3528.72,1,2024-12-07,4
+ORD00156,CUST0039,Air Fryer 4L,Home & Kitchen,4029.74,1,2025-05-27,5
+ORD00157,CUST0039,Stainless Steel Cookware Set,Home & Kitchen,4427.74,1,2025-02-22,5
+ORD00158,CUST0039,Memory Foam Pillow,Home & Kitchen,1352.45,3,2026-06-18,5
+ORD00159,CUST0040,Sunscreen SPF 50,Beauty,737.92,2,2024-08-29,3
+ORD00160,CUST0040,65W Fast Charger,Electronics,950.44,1,2025-09-06,5
+ORD00161,CUST0040,Vitamin C Face Serum,Beauty,674.71,3,2024-10-22,5
+ORD00162,CUST0040,65W Fast Charger,Electronics,1595.24,3,2025-10-04,5
+ORD00163,CUST0040,Wireless Earbuds Pro,Electronics,4481.74,1,2024-09-30,5
+ORD00164,CUST0040,Sunscreen SPF 50,Beauty,579.62,1,2025-06-04,4

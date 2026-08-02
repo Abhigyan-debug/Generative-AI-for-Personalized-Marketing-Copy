@@ -1,0 +1,41 @@
+customer_id,first_name,last_name,age,gender,city,state,country,email,signup_date
+CUST0001,Ishita,Sharma,36,Female,Manchester,England,UK,ishita.sharma1@example.com,2025-12-16
+CUST0002,Arjun,Gupta,53,Female,London,England,UK,arjun.gupta2@example.com,2024-12-05
+CUST0003,Olivia,Verma,24,Female,Bengaluru,Karnataka,India,olivia.verma3@example.com,2025-12-06
+CUST0004,Noah,Scott,54,Female,Bengaluru,Karnataka,India,noah.scott4@example.com,2024-07-29
+CUST0005,Lucas,Taylor,47,Non-binary,Pune,Maharashtra,India,lucas.taylor5@example.com,2025-10-21
+CUST0006,Aarav,Reddy,46,Male,Manchester,England,UK,aarav.reddy6@example.com,2025-10-21
+CUST0007,Meera,Mehta,40,Female,Toronto,Ontario,Canada,meera.mehta7@example.com,2026-04-29
+CUST0008,Chris,Gupta,41,Non-binary,Chennai,Tamil Nadu,India,chris.gupta8@example.com,2025-11-04
+CUST0009,Rohan,Anderson,26,Male,Austin,TX,USA,rohan.anderson9@example.com,2026-05-13
+CUST0010,Isabella,Rao,59,Non-binary,Sydney,NSW,Australia,isabella.rao10@example.com,2024-03-02
+CUST0011,Grace,Wright,23,Female,Pune,Maharashtra,India,grace.wright11@example.com,2024-09-23
+CUST0012,Aditya,Rao,33,Female,Mumbai,Maharashtra,India,aditya.rao12@example.com,2025-07-08
+CUST0013,Emily,Anderson,42,Female,London,England,UK,emily.anderson13@example.com,2025-07-18
+CUST0014,David,Mehta,36,Non-binary,London,England,UK,david.mehta14@example.com,2024-09-01
+CUST0015,Kabir,Scott,29,Non-binary,London,England,UK,kabir.scott15@example.com,2024-07-16
+CUST0016,Pooja,Reddy,43,Male,New York,NY,USA,pooja.reddy16@example.com,2024-10-15
+CUST0017,Isabella,Kapoor,39,Female,London,England,UK,isabella.kapoor17@example.com,2025-12-10
+CUST0018,Rohan,Smith,36,Female,Kolkata,West Bengal,India,rohan.smith18@example.com,2025-12-28
+CUST0019,Mason,Smith,60,Male,Pune,Maharashtra,India,mason.smith19@example.com,2025-06-22
+CUST0020,Sophia,Nair,27,Female,Hyderabad,Telangana,India,sophia.nair20@example.com,2024-06-30
+CUST0021,Isabella,Robinson,56,Male,Hyderabad,Telangana,India,isabella.robinson21@example.com,2024-12-12
+CUST0022,Hannah,Johnson,27,Non-binary,Pune,Maharashtra,India,hannah.johnson22@example.com,2025-03-14
+CUST0023,Ananya,Verma,26,Female,Sydney,NSW,Australia,ananya.verma23@example.com,2024-10-28
+CUST0024,Dev,Baker,57,Female,Kolkata,West Bengal,India,dev.baker24@example.com,2025-07-03
+CUST0025,Chris,Scott,52,Male,New York,NY,USA,chris.scott25@example.com,2025-01-12
+CUST0026,Aarav,Baker,26,Non-binary,Manchester,England,UK,aarav.baker26@example.com,2025-01-29
+CUST0027,Emily,Green,26,Male,Chennai,Tamil Nadu,India,emily.green27@example.com,2025-05-13
+CUST0028,Dev,Anderson,35,Non-binary,Bengaluru,Karnataka,India,dev.anderson28@example.com,2024-06-12
+CUST0029,Kavya,Walker,59,Male,Mumbai,Maharashtra,India,kavya.walker29@example.com,2024-03-23
+CUST0030,Rahul,Nair,29,Non-binary,Chennai,Tamil Nadu,India,rahul.nair30@example.com,2024-05-26
+CUST0031,Mia,Sharma,39,Male,San Francisco,CA,USA,mia.sharma31@example.com,2026-07-13
+CUST0032,Ishita,Johnson,38,Female,Sydney,NSW,Australia,ishita.johnson32@example.com,2026-06-03
+CUST0033,Pooja,Wright,24,Non-binary,Mumbai,Maharashtra,India,pooja.wright33@example.com,2025-03-22
+CUST0034,Kabir,Robinson,27,Female,Toronto,Ontario,Canada,kabir.robinson34@example.com,2024-09-25
+CUST0035,Liam,Robinson,35,Non-binary,Delhi,Delhi,India,liam.robinson35@example.com,2024-02-20
+CUST0036,Ella,Taylor,53,Non-binary,Pune,Maharashtra,India,ella.taylor36@example.com,2024-08-25
+CUST0037,Rahul,Rao,61,Non-binary,Kolkata,West Bengal,India,rahul.rao37@example.com,2025-07-15
+CUST0038,Ethan,Walker,26,Female,New York,NY,USA,ethan.walker38@example.com,2025-12-14
+CUST0039,Kabir,Smith,56,Non-binary,Bengaluru,Karnataka,India,kabir.smith39@example.com,2025-12-09
+CUST0040,Chloe,Kapoor,23,Non-binary,Bengaluru,Karnataka,India,chloe.kapoor40@example.com,2024-10-24

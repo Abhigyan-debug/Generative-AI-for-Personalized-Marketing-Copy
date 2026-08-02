@@ -1,0 +1,22 @@
+{
+  "professional": {
+    "label": "Professional",
+    "tone_description": "polished, respectful and confident, like a well-run brand writing to a valued client. Clear and to the point, no slang.",
+    "signoff": "Best regards,\nThe Everdale Team"
+  },
+  "friendly": {
+    "label": "Friendly",
+    "tone_description": "warm, casual and conversational, like a friend giving a genuine recommendation. Contractions are fine, keep it light.",
+    "signoff": "Cheers,\nThe Everdale Team"
+  },
+  "luxury": {
+    "label": "Luxury",
+    "tone_description": "elegant, refined and a little exclusive, the way a premium boutique speaks to loyal customers. Understated, never shouty.",
+    "signoff": "Warmly,\nEverdale Concierge"
+  },
+  "festive": {
+    "label": "Festive",
+    "tone_description": "upbeat and celebratory, fits a holiday or seasonal sale. Energetic without being over the top.",
+    "signoff": "Happy shopping,\nThe Everdale Team"
+  }
+}
